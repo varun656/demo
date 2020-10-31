@@ -1,4 +1,5 @@
 hello
 
 
+add and commit together
 hub  changes again changes to the file 
